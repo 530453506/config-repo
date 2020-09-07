@@ -1,5 +1,5 @@
 eureka:
-  instance:
+  instance: #test
     preferIpAddress: true
   client:
     registerWithEureka: true
